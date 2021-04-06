@@ -8,3 +8,6 @@ https://rahimbangla.github.io/CDN/pchutbd/storefront/assets/css/tiny-slider.css
 https://rahimbangla.github.io/CDN/yfbd/js/bootstrap.min.js
 
 https://rbsoft.tech
+
+
+https://rbsoft.tech/CDN/yfbd/
